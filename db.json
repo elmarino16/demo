@@ -11,5 +11,7 @@
   "cities": [
     { "name": "Paris", "location": "France" },
     { "name": "Casablanca", "location": "Maroc" }
-  ]
+  ],
+  "bestEngineer" : { "firstName": "Amine", "currentCity": "Paris" },
+  "bestElectrician" : { "firstName": "Najib", "currentCity": "Fes" }
 }
