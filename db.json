@@ -4,7 +4,7 @@
      { "firstName": "Rami", "currentCity": "Paris" },
      { "firstName": "Mehdi", "currentCity": "Casablanca" }
   ],
-  "eletricians": [
+  "electricians": [
     { "firstName": "Najib", "currentCity": "Fes" },
     { "firstName": "Hicham", "currentCity": "Casablanca" }
   ],
