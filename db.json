@@ -1,14 +1,15 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+  "engineers": [
+    { "firstName": "Amine", "currentCity": "Paris" },
+     { "firstName": "Rami", "currentCity": "Paris" },
+     { "firstName": "Mehdi", "currentCity": "Casablanca" }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+  "eletricians": [
+    { "firstName": "Najib", "currentCity": "Fes" },
+    { "firstName": "Hicham", "currentCity": "Casablanca" }
   ],
-  "profile": {
-    "name": "typicode"
-  }
+  "cities": [
+    { "name": "Paris", "location": "France" },
+    { "name": "Casablanca", "location": "Maroc" }
+  ]
 }
